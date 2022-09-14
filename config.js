@@ -2,20 +2,20 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 global.available = true
-global.autoReadGc = true
+global.autoReadGc = false
 global.autoReadAll = false
-global.antitags = true
+global.antitags = false
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['601117176162']
+global.OwnerNumber = ['601117176162']
+global.ownertag = ['601117176162']
 global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.packname = "Miku Bot"
+global.author = "By: Ras"
+global.OwnerName = "RAS"
+global.BotSourceCode = "https://github.com/Rasu-a/Miku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Ipoh, Perak"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/"
 global.lolhuman = "KaysaS"
 
 
@@ -77,7 +77,7 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
@@ -98,7 +98,7 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 global.APIKeys = {
-	'https://zenzapis.xyz': '5d1197db351b',
+	'https://zenzapis.xyz': 'ras17',
 }
 
 
